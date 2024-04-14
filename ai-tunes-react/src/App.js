@@ -75,7 +75,7 @@ function App() {
               Tune Your Mood: Discover, Connect, Play
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-              is a visionary project by students at Arizona State University, designed to revolutionize the way we experience music. This AI-powered Music Recommender system is not just a tool; it's a musical companion that understands and adapts to your mood, offering a seamless journey through the world of sound. Whether you're looking to discover new tunes, connect with songs that match your current emotion, or simply play your heart out, this system brings a personalized soundtrack to your life. Developed with the passion and ingenuity of ASU students, it promises a new era of musical discovery, where every note plays in harmony with your emotions.
+              is a visionary project by students at Arizona State University, designed to revolutionize the way we experience music. This AI-powered Music Recommender system is not just a tool; it's a musical companion that understands and adapts to your current vibe of music, offering a seamless journey through the world of sound. Whether you're looking to discover new tunes, connect with songs that match your current genre/song of enjoyment, or simply play your heart out, this system brings a personalized soundtrack to your life. Developed with the passion and ingenuity of ASU students, it promises a new era of musical discovery.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <a
